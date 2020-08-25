@@ -1,8 +1,8 @@
-### HI! I am Mateus, curious and generalist developer 👋
+### HI ! I am Mateus, curious and generalist developer 👋
 
-- 🌱 Learning TS, React, NodeJS and Git Flow;
-- 💬 Ask me about: i like animes, rap and play lol and Valorant;
-- 👯 I can help on React, NodeJs, but can learn to discover something new;
+- 🌱  Learning TS, React, NodeJS and Git Flow;
+- 💬  Ask me about: i like animes, rap and play lol and Valorant;
+- 👯  I can help on React, NodeJs, but can learn to discover something new;
 
 ![](https://media.giphy.com/media/13oDNx11SKUKha/giphy.gif)
 
