@@ -4,6 +4,8 @@
 - 💬  Ask me about: i like animes, rap and play lol and Valorant;
 - 👯  I can help on React, NodeJs, but can learn to discover something new;
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugarate12&layout=compact&bg_color=FFFFFF&title_color=151515&text_color=151515)
+
 ![](https://media.giphy.com/media/13oDNx11SKUKha/giphy.gif)
 
 <!--
