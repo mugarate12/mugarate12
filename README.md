@@ -6,10 +6,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugarate12&layout=compact&bg_color=FFFFFF&title_color=151515&text_color=151515)
 
-![](https://media.giphy.com/media/13oDNx11SKUKha/giphy.gif)
-
 <!--
 **mugarate12/mugarate12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media.giphy.com/media/13oDNx11SKUKha/giphy.gif)
 
 Here are some ideas to get you started:
 
