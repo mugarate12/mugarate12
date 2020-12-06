@@ -1,8 +1,8 @@
-### HI ! I am Mateus, curious and generalist developer 👋
+### HI ! Meu nome é Mateus, desenvolvedor JS e poeta nas horas vagas 👋
 
-- 🌱  Learning TS, React, NodeJS and Git Flow;
-- 💬  Ask me about: i like animes, rap and play lol and Valorant;
-- 👯  I can help on React, NodeJs, but can learn to discover something new;
+- 🌱  Me aprofundando em TS, React e NodeJS;
+- 💬  Assisto bastante anime, ex lolzero, e leio sempre que posso;
+- 👯  Apesar das frameworks, to sempre atento pra base, então precisar de ajudar, topo até ver onde ta bugado naquele código em Angular;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugarate12&layout=compact&bg_color=FFFFFF&title_color=151515&text_color=151515)
 
