@@ -2,7 +2,7 @@
 
 - 🌱  Me aprofundando em TS, React e NodeJS;
 - 💬  Assisto bastante anime, ex lolzero, e leio sempre que posso;
-- 👯  Apesar das frameworks, to sempre atento pra base, então precisar de ajudar, topo até ver onde ta bugado naquele código em Angular;
+- 👯  Apesar das frameworks, to sempre atento pra base, então precisar de ajuda, topo até ver onde ta bugado naquele código em Angular;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugarate12&layout=compact&bg_color=FFFFFF&title_color=151515&text_color=151515)
 
