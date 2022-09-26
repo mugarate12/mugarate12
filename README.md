@@ -1,10 +1,10 @@
 ### HI ! Meu nome é Mateus, desenvolvedor JS e poeta nas horas vagas 👋
 
 - 🌱  Me aprofundando em TS, React e NodeJS;
-- 💬  Assisto bastante anime, ex lolzero, e leio sempre que posso;
-- 👯  Apesar das frameworks, to sempre atento pra base, então precisar de ajuda, topo até ver onde ta bugado naquele código em Angular;
+- 💬  Animes, literatura e games;
+- 📖  Sempre buscando aprender mais sobre o mundo da programção 💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugarate12&layout=compact&bg_color=FFFFFF&title_color=151515&text_color=151515)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugarate12&theme=tokyonight&show_icons=true&count_private=true)
 
 <!--
 **mugarate12/mugarate12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
