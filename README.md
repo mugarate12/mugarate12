@@ -2,7 +2,7 @@
 
 - 🌱  Me aprofundando em TS, React e NodeJS;
 - 💬  Animes, literatura e games;
-- 📖  Sempre buscando aprender mais sobre o mundo da programção 💻
+- 📖  Sempre buscando aprender mais sobre o mundo da programação 💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mugarate12&theme=tokyonight&layout=compact)
 
